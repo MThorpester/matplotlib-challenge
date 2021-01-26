@@ -15,7 +15,7 @@ The Jupyter notebook contains:
   - Summary Statistics for each Drug regimen in the study
   - Bar Charts showing the number of measurements taken per Drug regimen
   - Pie Charts showing the breakdown of mice in the study by gender
-  - Calculations of the quartiles and IQR for Average Tumor Volume in the 4 Drug regimens (Capomulin, Ramacane, Infubinol & Ceftamin) and identification of any outliers in this data 
+  - Calculations of the quartiles and IQR for Final Tumor Volumes in the 4 Drug regimens (Capomulin, Ramacane, Infubinol & Ceftamin) and identification of any outliers in this data 
   - Side-by-side Box and Whisker Plots visualizing these calculations  
   - A Line Plot showing the progression of tumor volume over the 45 days of treatment with Capomulin for Mouse 'm601'
   - A Scatter Plot showing the relationship between mouse weight and average tumor volume in the Capomulin study
