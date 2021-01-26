@@ -5,7 +5,7 @@ This study compares the performance of Pymaceuticals' drug of interest, Capomuli
   - The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
 The project consists of:
-- a Jupyter notebook (MT_Pymaceuticals.ipnyb) that analyzes the mouse metadata and study results.
+- a Jupyter notebook (MT_pymaceuticals.ipnyb) that analyzes the mouse metadata and study results.
 - the mouse metadata and study results stored in Resources\Study_results.csv and Resources\Mouse_metadata.csv
 
 The Jupyter notebook contains:
